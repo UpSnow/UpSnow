@@ -61,7 +61,7 @@ Além das habilidades técnicas, desenvolvi competências interpessoais importan
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=UpSnow&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=UpSnow&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF" 
   />
 
 
@@ -69,7 +69,7 @@ Além das habilidades técnicas, desenvolvi competências interpessoais importan
     align="left" 
     alt="GitHub Stats" 
     height="224" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpSnow&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpSnow&layout=compact&custom_title=Tecnologias&theme=transparent&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF"
   />
 </p>
 
